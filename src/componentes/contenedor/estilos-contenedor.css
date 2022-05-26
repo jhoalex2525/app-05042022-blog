@@ -1,0 +1,27 @@
+.paginacion{
+    display: flex;
+    justify-content: center;
+}
+.atras{
+    background-color: rgb(89, 89, 89);
+    color: white;
+    border-radius: 10px;
+}
+.adelante{
+    background-color: rgb(89, 89, 89);
+    color: white;
+    border-radius: 10px;
+}
+.titulo{
+    font-size: 18px;
+    font-weight: bold;
+}
+.fecha-articulo{
+    font-size: 16px;
+    font-style: italic;
+}
+.numero-paginas{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10px;
+}
